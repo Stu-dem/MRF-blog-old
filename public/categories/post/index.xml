@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on My HugoMDL Site</title>
+    <link>/categories/post/</link>
+    <description>Recent content in Post on My HugoMDL Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keenan&#39;s musings</title>
+      <link>/post/keenan-s-musings/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/keenan-s-musings/</guid>
+      <description>Website layout I&amp;rsquo;ve thought to include four sections:
+ Home - dashboard of the website which i will try get to show a little bit of content from the three other sections.
+ Articles - could have another name. This is where our personal responses and possibly our collective response will be posted.
+ Projects - quite a varied space - could be a place to describe our work or projects at varsity our extra curricular / community engagement / personal interests.</description>
+    </item>
+    
+    <item>
+      <title>Linet&#39;s ideas</title>
+      <link>/post/linet-s-ideas/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/linet-s-ideas/</guid>
+      <description>Things I would need from you  Your personal blog post in a word document or something similar.
+ If this could be formatted as you would like it to appear then I will try to match as closely as possible in the actual post.   There are a couple of extra fields that I would need some meta-data for in order to make the post as complete as possible:</description>
+    </item>
+    
+    <item>
+      <title>Thabo&#39;s contemplations</title>
+      <link>/post/thabo-s-contemplations/</link>
+      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/thabo-s-contemplations/</guid>
+      <description>Wesite design This really is entirely up to us. I have used the Joburg night skyline. For simplicity and uniformity I have kept this across the main pages. Each blog post and project can then have it&amp;rsquo;s own header and description. I have kept the default projects but you are free customise these fairly extensively.</description>
+    </item>
+    
+    <item>
+      <title>Stuart&#39;s post</title>
+      <link>/post/2018-08-19-stuart-s-post/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-08-19-stuart-s-post/</guid>
+      <description>Design ideas Thoughts on the post header backgrounds (the geometric kind of pattern at the top of each post):
+ choose a picture that describes you choose a picture that highlights one of the ideas you feel is important from your reflections any other thoughts?  Personal reflection ideas  from my side I think we should spend some time on our own going through the reflection questions and compose our personal responses.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on My HugoMDL Site</title>
+    <link>/categories/project/</link>
+    <description>Recent content in Project on My HugoMDL Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2015 02:27:08 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keenan&#39;s project</title>
+      <link>/project/collaborativeproject/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/collaborativeproject/</guid>
+      <description>Keenan&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+    <item>
+      <title>Linet&#39;s project</title>
+      <link>/project/coolwebsite/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/coolwebsite/</guid>
+      <description>Linet&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+    <item>
+      <title>Stuart&#39;s project</title>
+      <link>/project/hugotheme/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/hugotheme/</guid>
+      <description>Stuart&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+    <item>
+      <title>Thabo&#39;s project</title>
+      <link>/project/coolcode/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/coolcode/</guid>
+      <description>Thabo&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on My HugoMDL Site</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on My HugoMDL Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 Oct 2015 02:27:08 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Keenan&#39;s project</title>
+      <link>/project/collaborativeproject/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/collaborativeproject/</guid>
+      <description>Keenan&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+    <item>
+      <title>Linet&#39;s project</title>
+      <link>/project/coolwebsite/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/coolwebsite/</guid>
+      <description>Linet&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+    <item>
+      <title>Stuart&#39;s project</title>
+      <link>/project/hugotheme/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/hugotheme/</guid>
+      <description>Stuart&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+    <item>
+      <title>Thabo&#39;s project</title>
+      <link>/project/coolcode/</link>
+      <pubDate>Mon, 05 Oct 2015 02:27:08 +0000</pubDate>
+      
+      <guid>/project/coolcode/</guid>
+      <description>Thabo&amp;rsquo;s project You can tell us about something you&amp;rsquo;re doing here if you like.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/project/collaborativeproject/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project/collaborativeproject/</guid>
+      <description>Keenan’s projectcode{white-space: pre;}pre:not([class]) {background-color: white;}if (window.hljs) {hljs.configure({languages: []});hljs.initHighlightingOnLoad();if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) {window.setTimeout(function() { hljs.initHighlighting(); }, 0);}}h1 {font-size: 34px;}h1.title {font-size: 38px;}h2 {font-size: 30px;}h3 {font-size: 24px;}h4 {font-size: 18px;}h5 {font-size: 16px;}h6 {font-size: 12px;}.</description>
+    </item>
+    
+  </channel>
+</rss>

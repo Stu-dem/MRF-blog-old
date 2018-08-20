@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on My HugoMDL Site</title>
+    <link>/categories/meta/</link>
+    <description>Recent content in Meta on My HugoMDL Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 18 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Tue, 18 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Linet Two lines (or a few more) about yourself?
+Thabo Maybe your favourite food?
+Keenan Or what you&amp;rsquo;d like to accomplish one day?
+Stuart Maybe where you grew up?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,15 @@
+---
+title: Stuart's thoughs
+author: Stuart demmer
+date: '2018-08-19'
+slug: stuart-s-thoughs
+categories: []
+tags: []
+description: first post with Hugo website engine
+cardthumbimage: /images/default.jpg
+cardheaderimage: /images/default.jpg
+cardbackground: '#263238'
+---
+## Hey there
+
+So for my post

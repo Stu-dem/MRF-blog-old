@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linet on My HugoMDL Site</title>
+    <link>/tags/linet/</link>
+    <description>Recent content in Linet on My HugoMDL Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/linet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linet&#39;s ideas</title>
+      <link>/post/2018-08-19-linet-s-ideas/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-08-19-linet-s-ideas/</guid>
+      <description> Idea 1 This is my first idea - I can write a whole paragraph here and put all sorts of formatting onto my text.
+Idea 2 Idea 2.1 </description>
+    </item>
+    
+  </channel>
+</rss>
